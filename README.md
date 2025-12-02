@@ -40,3 +40,6 @@ Specific dates reflect promotional-driven sales surges<br>
 📌 Operational Insights:<br>
 Standard Class shipping is the most used logistics mode<br>
 State-level distribution highlights strong sales on East & West coasts<br>
+
+📸 Dashboard Preview:
+<img width="1279" height="716" alt="Screenshot 2025-11-28 170021" src="https://github.com/user-attachments/assets/55fb0400-e109-4d4b-8bc7-aa120461df86" />
